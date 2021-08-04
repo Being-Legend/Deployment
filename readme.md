@@ -1,3 +1,3 @@
-- actiave the env - conda activate <env_name>
+- Activate the env - conda activate <env_name>
 
 - install the libraires ---> pip install flask
